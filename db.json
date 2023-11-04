@@ -1,0 +1,28 @@
+{
+  "conta": [
+    {
+      "id": 1,
+      "nome": "Adrian"
+    },
+    {
+      "nome": "Rosilene",
+      "id": 2
+    },
+    {
+      "nome": "Thaiza",
+      "id": 3
+    },
+    {
+      "nome": "Joze",
+      "id": 4
+    },
+    {
+      "nome": "Airton",
+      "id": 5
+    },
+    {
+      "nome": "Robert",
+      "id": 6
+    }
+  ]
+}
